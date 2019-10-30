@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+# ORIZA (ORY)
 
-You can use the [editor on GitHub](https://github.com/oryzatoken/oryza.space/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Welcome to Oryza Sativa Farm Project
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Image](src)
 
-### Markdown
+Let's be our community and make revenue together in farm project.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### ORYZA Token (ORY)
 
-```markdown
-Syntax highlighted code block
+ORYZA (ORY) is the official token for the Oryza Sativa Farm Project, a real project in agribusiness. Holders of the token are able to reap the rewards from our revenue.
 
-# Header 1
-## Header 2
-### Header 3
+We chose using **tron.network** because this blockcain more poular today and very cheap in trx fee.
+You can visit [link]https://tronscan.org/#/token20/TFHcSSqhCoaGwQBANsM2SuM2Ytd4dwsaMp for token detail and
+here [link]https://tronscan.org/#/token20/TFHcSSqhCoaGwQBANsM2SuM2Ytd4dwsaMp/transfers for transfer detail
+and [link]https://tronscan.org/#/token20/TFHcSSqhCoaGwQBANsM2SuM2Ytd4dwsaMp/holders for token holder
 
-- Bulleted
-- List
+You can join in this bussines, just buy our token at [link]trx.market
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/oryzatoken/oryza.space/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
