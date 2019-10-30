@@ -10,17 +10,17 @@ Join our community and make revenue together in farm project.
 
 ORYZA (ORY) is the official token for the Oryza Sativa Farm Project, a real project in agribusiness. Holders of the token are able to reap the rewards from our revenue.
 
-**Total Supply** = 1,000,000,000<br \>
-**Precision** = 8 Decimal<br \>
-**Contract Address** = TFHcSSqhCoaGwQBANsM2SuM2Ytd4dwsaMp<br \>
-**Token Type** = TRC20<br \>
-**Blockcain** = Tron Network<br \>
+**Total Supply** = 1,000,000,000<br/>
+**Precision** = 8 Decimal<br/>
+**Contract Address** = TFHcSSqhCoaGwQBANsM2SuM2Ytd4dwsaMp<br/>
+**Token Type** = TRC20<br/>
+**Blockcain** = Tron Network<br/>
 
-ORYZA using **tron.network** because Tron is a blockchain-based decentralized platform that aims to build a free.<br \>
-You can visit this link for more information:<br \>
-[Token Detail](https://tronscan.org/#/token20/TFHcSSqhCoaGwQBANsM2SuM2Ytd4dwsaMp)<br \>
-[Token Explorer](https://tronscan.org/#/token20/TFHcSSqhCoaGwQBANsM2SuM2Ytd4dwsaMp/transfers)<br \>
-[Token Holder](https://tronscan.org/#/token20/TFHcSSqhCoaGwQBANsM2SuM2Ytd4dwsaMp/holders)<br \>
+ORYZA using **tron.network** because Tron is a blockchain-based decentralized platform that aims to build a free.<br/>
+You can visit this link for more information:<br/>
+[Token Detail](https://tronscan.org/#/token20/TFHcSSqhCoaGwQBANsM2SuM2Ytd4dwsaMp)<br/>
+[Token Explorer](https://tronscan.org/#/token20/TFHcSSqhCoaGwQBANsM2SuM2Ytd4dwsaMp/transfers)<br/>
+[Token Holder](https://tronscan.org/#/token20/TFHcSSqhCoaGwQBANsM2SuM2Ytd4dwsaMp/holders)<br/>
 
 For buy our token please visit this **[Exchange](https://trx.market)**
 
