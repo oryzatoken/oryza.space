@@ -18,7 +18,7 @@ ORYZA (ORY) is the official token for the Oryza Sativa Farm Project, a real proj
 **Token Type** = TRC20<br/>
 **Blockcain** = Tron Network<br/>
 
-ORYZA using **tron.network** because Tron is a blockchain-based decentralized platform that aims to build a free.<br/>
+ORYZA using **[Tron Network](https://tron.network)** because Tron is a blockchain-based decentralized platform that aims to build a free.<br/>
 You can visit this link for more information:<br/>
 [Token Detail](https://tronscan.org/#/token20/TFHcSSqhCoaGwQBANsM2SuM2Ytd4dwsaMp)<br/>
 [Token Explorer](https://tronscan.org/#/token20/TFHcSSqhCoaGwQBANsM2SuM2Ytd4dwsaMp/transfers)<br/>
