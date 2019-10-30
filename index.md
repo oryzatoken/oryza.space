@@ -2,7 +2,8 @@
 
 ## Welcome to Oryza Sativa Farm Project
 
-![Logo](https://pbs.twimg.com/profile_images/1185126777175199744/ee1KM8Jy_400x400.jpg)
+
+<img src="https://pbs.twimg.com/profile_images/1185126777175199744/ee1KM8Jy_400x400.jpg" alt="logo" width="200"/>
 
 
 Join our community and make revenue together in farm project.
