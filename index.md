@@ -1,4 +1,4 @@
-# ORIZA (ORY)
+# ORIZA (ORY) Token Sale
 
 ## Welcome to Oryza Sativa Farm Project
 
@@ -6,7 +6,7 @@
 <img src="https://pbs.twimg.com/profile_images/1185126777175199744/ee1KM8Jy_400x400.jpg" alt="logo" width="200"/>
 
 
-Join our community and make revenue together in farm project.
+Join our community and make revenue together in our farm project.
 
 ### ORYZA Token (ORY)
 
@@ -26,3 +26,5 @@ You can visit this link for more information:<br/>
 
 For buy this token please visit this **[Exchange](https://tronwatch.market/trade/TFHcSSqhCoaGwQBANsM2SuM2Ytd4dwsaMp-TRX/?ref=TSJU5dDgT2z2hx3ZGtpPeuUornEzzfXc3g)** or click <br/>
 [<img src="https://santaschristmasland.com/wp-content/uploads/2019/06/buy-now-button-transparent-png-5.png" alt="Buy Token" width="200"/>](https://tronwatch.market/trade/TFHcSSqhCoaGwQBANsM2SuM2Ytd4dwsaMp-TRX/?ref=TSJU5dDgT2z2hx3ZGtpPeuUornEzzfXc3g)
+<br/>
+#You must install Tronlink to buy this token.
