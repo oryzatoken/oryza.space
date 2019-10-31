@@ -26,3 +26,4 @@ You can visit this link for more information:<br/>
 
 For buy this token please visit this **[Exchange](https://tronwatch.market/trade/TFHcSSqhCoaGwQBANsM2SuM2Ytd4dwsaMp-TRX/?ref=TSJU5dDgT2z2hx3ZGtpPeuUornEzzfXc3g)**
 
+[<img src="https://santaschristmasland.com/wp-content/uploads/2019/06/buy-now-button-transparent-png-5.png" alt="Buy Token" width="200"/>](https://tronwatch.market/trade/TFHcSSqhCoaGwQBANsM2SuM2Ytd4dwsaMp-TRX/?ref=TSJU5dDgT2z2hx3ZGtpPeuUornEzzfXc3g)
