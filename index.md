@@ -18,9 +18,6 @@ The official token for the Oryza Sativa Agriculture Project, a real project in a
 **Token Type** = TRC20<br/>
 **Blockcain** = Tron Network<br/>
 
-### Token Distribution
-
-<img src="https://github.com/oryzatoken/oryza.space/releases/download/WP/Distribution.jpg" alt="Distribution" width="300"/>
 
 ORYZA using **[Tron Network](https://tron.network)** because Tron is a blockchain-based decentralized platform that aims to build a free.<br/>
 You can visit this link for more information:<br/>
