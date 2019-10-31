@@ -10,7 +10,7 @@ Join our community and generate revenue in our agriculture projects.
 
 ### ORYZA Token (ORY)
 
-The official token for the Oryza Sativa Agriculture Project, a real project in agribusiness. Token holders can reap rewards from our income.
+The official token for the Oryza Sativa Agriculture Project, a real project in agribusiness. Token holders can reap rewards from our revenue.
 
 **Total Supply** = 1,000,000,000<br/>
 **Precision** = 8 Decimal<br/>
