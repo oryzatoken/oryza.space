@@ -25,7 +25,9 @@ You can visit this link for more information:<br/>
 [Token Explorer](https://tronscan.org/#/token20/TFHcSSqhCoaGwQBANsM2SuM2Ytd4dwsaMp/transfers)<br/>
 [Token Holder](https://tronscan.org/#/token20/TFHcSSqhCoaGwQBANsM2SuM2Ytd4dwsaMp/holders)<br/>
 
-For buy this token please visit this **[Exchange](https://tronwatch.market/trade/TFHcSSqhCoaGwQBANsM2SuM2Ytd4dwsaMp-TRX/?ref=TSJU5dDgT2z2hx3ZGtpPeuUornEzzfXc3g)** or click <br/>
-[<img src="https://santaschristmasland.com/wp-content/uploads/2019/06/buy-now-button-transparent-png-5.png" alt="Buy Token" width="200"/>](https://tronwatch.market/trade/TFHcSSqhCoaGwQBANsM2SuM2Ytd4dwsaMp-TRX/?ref=TSJU5dDgT2z2hx3ZGtpPeuUornEzzfXc3g)
+For buy this token click here [<img src="https://santaschristmasland.com/wp-content/uploads/2019/06/buy-now-button-transparent-png-5.png" alt="Buy Token" width="200"/>](https://trx.market/exchange?id=132)
 <br/>
-*You must install **[Tronlink](https://www.tronlink.org/)** to buy this token.
+ORYZA List on:<br/>
+**[Tronwatch.market Exchange](https://tronwatch.market/trade/TFHcSSqhCoaGwQBANsM2SuM2Ytd4dwsaMp-TRX/?ref=TSJU5dDgT2z2hx3ZGtpPeuUornEzzfXc3g)** <br/> 
+**[Trx.market Exchange](https://trx.market/exchange?id=132)**
+ <br/>
