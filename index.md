@@ -26,6 +26,6 @@ You can visit this link for more information:<br/>
 [Token Holder](https://tronscan.org/#/token20/TFHcSSqhCoaGwQBANsM2SuM2Ytd4dwsaMp/holders)<br/>
 
 For buy this token please visit :<br/>
-**[Trx.market Exchange](https://trx.market/exchange?id=132)**
+**[poloniex.org](https://poloniex.org/exchange?id=132)**
  <br/>
 **[Tronwatch.market Exchange](https://tronwatch.market/trade/TFHcSSqhCoaGwQBANsM2SuM2Ytd4dwsaMp-TRX/?ref=TSJU5dDgT2z2hx3ZGtpPeuUornEzzfXc3g)** <br/> 
